@@ -1,0 +1,122 @@
+/*navigation part start */
+.nab_first{
+    padding-left: 15px;
+}
+.navbar-nav .nav-item{
+    padding-left: 30px;
+}
+.nav_third{
+    margin-left: 190px;
+}
+/* banner part start */
+.carousel-item img{
+    height: 450px;
+}
+.carousel-caption{
+    margin-bottom: 50px;
+}
+.carousel-caption h1{
+    font-size: 20px;
+}
+.carousel-caption a{
+    color: white;
+    text-decoration: none;
+    background-color: deepskyblue;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+/* banner part end */
+/* courses part start */
+.course_head{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.course_con{
+    color: DeepSkyBlue;
+}
+.courses_anc a{
+    text-decoration: none;
+    background-color: DeepSkyBlue;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+}
+.courses_anc{
+    text-align: center;
+}
+/* work part start */
+.work{
+    background-color: AliceBlue;
+    border-radius: 5px;
+}
+.col-md-5{
+    padding: 0;
+}
+.col-md-7{
+    padding: 0;
+}
+.work_anc a{
+    text-decoration: none;
+    background-color: DeepSkyBlue;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+}
+/* join part start */
+.join{
+    background-color: deepskyblue;
+    border-radius: 5px;
+}
+.join_anc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.join_con{
+    color: white;
+}
+.join_anc a{
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: deepskyblue;
+    justify-content: center;
+    align-items: center;
+}
+/* student part start */
+.stu_anc{
+    text-align: center;
+}
+.stu_anc a{
+    text-decoration: none;
+    background-color: deepskyblue;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+}
+/* feedback part start */
+.feed_head{
+    text-align: center;
+}
+/* question part start */
+.Ques_head{
+    text-align: center;
+}
+/* company part start */
+.company{
+    text-align: center;
+}
+/* footer part start */
+.foot{
+    background-color: black;
+    color: white;
+    padding: 100px;
+    text-align: center;
+}
+.foot_icon i{
+    background-color: rgba(67, 104, 136, 0.11);
+    padding: 10px;
+    border-radius: 50px;
+    margin-left: 5px;
+}
